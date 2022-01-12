@@ -1,3 +1,5 @@
+# NOTE: This is my personal copy of this repo.  The original repo was created by Kris Jordan
+
 # COMP110 Workspace - Spring 2022
 
 Your work in the course will be completed in this workspace. Instructions for the two most common tasks you'll perform can be found below.
